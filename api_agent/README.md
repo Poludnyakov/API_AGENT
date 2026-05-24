@@ -1,4 +1,4 @@
-Here is the Python homework - simple AI agent
+Here is the simple AI agent
 
 base URL http://ai360.velkerr.ru:40142
 URL for testing: http://ai360.velkerr.ru:40142/docs
