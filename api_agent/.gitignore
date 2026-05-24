@@ -1,0 +1,8 @@
+db.sqlite*
+swagger.json
+.env
+api_agent/ai_agent.db
+api_agent/__pycache__
+api_agent/swagger.json
+api_agent.egg-info
+.venv
